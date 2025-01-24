@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RUSHENDRA2001
+- 👋 Hi, I’m @RUSHENDRA-is-here
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science 
 - 📫 How to reach me ... rushi888888@gmail.com
